@@ -26,6 +26,7 @@
 
 ### Exception
 [무분별한 커스텀 예외 정의](https://ecsimsw.tistory.com/entry/예외를-선택하는-방법?category=887812)
+[NullPointerException을 피하기 위한 습관](https://ecsimsw.tistory.com/entry/NullPointerException을-피하기-위한-습관)
 
 ### JVM
 [자바는 항상 Call by value](https://ecsimsw.tistory.com/entry/%EC%9E%90%EB%B0%94%EB%8A%94-Call-by-Value-%EC%9D%B4%EB%8B%A4)    
