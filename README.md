@@ -25,7 +25,7 @@
 [헷갈렸더 제네릭 클래스 상속 정리](https://ecsimsw.tistory.com/entry/헷갈렸던-제네릭-클래스-상속-정리?category=887812)  
 
 ### Exception
-[무분별한 커스텀 예외 정의](https://ecsimsw.tistory.com/entry/예외를-선택하는-방법?category=887812)
+[무분별한 커스텀 예외 정의](https://ecsimsw.tistory.com/entry/예외를-선택하는-방법?category=887812)  
 [NullPointerException을 피하기 위한 습관](https://ecsimsw.tistory.com/entry/NullPointerException을-피하기-위한-습관)
 
 ### JVM
