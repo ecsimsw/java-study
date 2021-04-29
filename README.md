@@ -12,6 +12,7 @@
 [스트림 사용 시 주의점](https://ecsimsw.tistory.com/entry/작성-중-스트림-사용-시-주의할-점)  
 [자주 쓰이는 Stream 사용 패턴](https://ecsimsw.tistory.com/entry/TODO-자주-쓰이는-Stream-Optional-사용-패턴)  
 [왜 inner class, Lambda는 effectively final 변수만 접근할 수 있을까.](https://ecsimsw.tistory.com/entry/왜-anonymous-inner-class는-final-변수만-접근할-수-있을까)  
+[flatMap으로 인덴트 줄이기](https://ecsimsw.tistory.com/entry/0321-flatMap-활용법-정리)   
 
 ### Optional
 [Optional 정리하기 / Optional로 Null을 체크하자](https://ecsimsw.tistory.com/entry/%EC%9E%91%EC%84%B1-%EC%A4%91-Optional%EA%B3%BC-null)  
@@ -24,7 +25,8 @@
 [헷갈렸더 제네릭 클래스 상속 정리](https://ecsimsw.tistory.com/entry/헷갈렸던-제네릭-클래스-상속-정리?category=887812)  
 
 ### Exception
-[무분별한 커스텀 예외 정의](https://ecsimsw.tistory.com/entry/예외를-선택하는-방법?category=887812)
+[무분별한 커스텀 예외 정의](https://ecsimsw.tistory.com/entry/예외를-선택하는-방법?category=887812)  
+[NullPointerException을 피하기 위한 습관](https://ecsimsw.tistory.com/entry/NullPointerException을-피하기-위한-습관)
 
 ### JVM
 [자바는 항상 Call by value](https://ecsimsw.tistory.com/entry/%EC%9E%90%EB%B0%94%EB%8A%94-Call-by-Value-%EC%9D%B4%EB%8B%A4)    
