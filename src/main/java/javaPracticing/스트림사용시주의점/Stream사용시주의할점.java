@@ -58,9 +58,6 @@ class 헷갈리는동작순서_findFirst {
 }
 
 class Stream은Loop가아니다 {
-    public static void main(String[] args) {
-        usingFindFirst();
-    }
 
     public static void till99() {
         IntStream.range(1, 100).forEach(i -> {
@@ -78,15 +75,6 @@ class Stream은Loop가아니다 {
                     return i;
                 })
                 .forEach(System.out::println);
-    }
-
-    public static void usingFindFirst() {
-        IntStream.range(1, 100)
-                .takeWhile(i -> {
-                    System.out.println(i); // 1 ~ 50
-                    return i < 50;  // 50 -> false
-                })
-                .forEach(System.out::println); // 1 ~ 49
     }
 
     public static void usingLimit() {
