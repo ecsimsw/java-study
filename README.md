@@ -14,6 +14,9 @@
 [왜 inner class, Lambda는 effectively final 변수만 접근할 수 있을까.](https://ecsimsw.tistory.com/entry/왜-anonymous-inner-class는-final-변수만-접근할-수-있을까)  
 [flatMap으로 인덴트 줄이기](https://ecsimsw.tistory.com/entry/0321-flatMap-활용법-정리)   
 
+### 자바에서 Null을 다루는 방법
+[자바에서 Null을 다루는 방법](https://ecsimsw.tistory.com/entry/자바에서-Null을-다루는-방법)
+
 ### Optional
 [Optional 정리하기 / Optional로 Null을 체크하자](https://ecsimsw.tistory.com/entry/%EC%9E%91%EC%84%B1-%EC%A4%91-Optional%EA%B3%BC-null)  
 
